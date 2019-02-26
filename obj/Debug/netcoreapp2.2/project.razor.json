@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "c:\\Users\\Sergio Boror\\Desktop\\Kinal\\Segunda_Fase_Tarea\\Segunda_Fase\\Segunda_Fase.csproj",
+  "TargetFramework": "netcoreapp2.2",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}
